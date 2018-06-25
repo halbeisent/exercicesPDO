@@ -1,0 +1,43 @@
+.appointmentsBG {
+    background-image: url(../img/appointmentsBG.jpg);
+    background-repeat: no-repeat;
+}
+
+.appointmentsFormBG {
+    background-color: rgba(245,228,215,0.7);
+    margin-top: 50px;
+}
+
+.appointmentsTitle {
+    text-align: center;
+}
+
+.homeBG {
+    background-image: url(../img/hospitalHome.jpg);
+}
+
+.homeTitle {
+    text-align: center;
+}
+
+.nav-wrapper, .btnColor {
+    background-color: #444545;
+}
+
+.patientsTitle {
+    text-align: center;
+}
+
+.patientsBG {
+    background-image: url(../img/patientsBG.jpg);
+    background-repeat: no-repeat;
+}
+
+.patientformBG {
+    background-color: rgba(245,228,215,0.7);
+    margin-top: 50px;
+}
+
+.error {
+    color: red;
+}

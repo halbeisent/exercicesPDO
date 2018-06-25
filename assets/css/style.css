@@ -1,0 +1,33 @@
+/* Import des polices */
+@import url('https://fonts.googleapis.com/css?family=Russo+One');
+
+body {
+    background-color: #424B54;
+}
+
+h1 {
+    font-family: 'Russo One', sans-serif;
+    text-align: center;
+}
+
+.btn {
+    background-color: #F44336;
+}
+
+.btn:hover {
+    background-color: #F44336;
+}
+
+.rule {
+    background-color: #00695C;
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+
+.answer {
+    background-color: #E65100;
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
